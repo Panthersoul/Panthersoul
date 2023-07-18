@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 🌱 Always learning <br />
 💬 Ask me about what you need, tell me what you think.
 
-# 📫 How to reach me: contacto@panthersoul.uy
+## 📫 How to reach me: contacto@panthersoul.uy
 
-PS: Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
+#### PS: Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
