@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 🔭 I´m a software developer with experience on
+ Full STACK | .NET - C# - SASS - CSS - HTML - Javascript - React - Sql - Networking - IT 2nd level | Scrum Master |
 
-##Full STACK | .NET - C# - SASS - CSS - HTML - Javascript - React - Sql - Networking - IT 2nd level | Scrum Master |
-#Currently working on a personal project thats includes Node Js and React.
-
-💬 Ask me about what you need, tell me what you think.
+Currently working on a personal project thats includes Node Js and React.
+# 💬 Ask me about what you need, tell me what you think.
+# 📫 How to reach me: contacto@panthersoul.uy
