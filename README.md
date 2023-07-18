@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-🔭 I´m a full stack software developer with experience on:  <br />
+🔭 I´m a full stack developer with experience on:  <br />
  .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Networking - IT 2nd level | Scrum
 
 🌱 Always learning <br />
