@@ -1,4 +1,4 @@
-![Header](./img/header1.png)
+![Header](./img/github-header-image.png)
 <!--
 **Panthersoul/Panthersoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
