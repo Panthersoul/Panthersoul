@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 <br />
 
 Here you will find some projects based on the idea that I just mentioned. <br />
-You can find a web site, the app with REACT and Firebase or a Backend in NODE with a lot of libraries and MongoDB.<br />
+You can find a web site, the app with REACT and Firebase or a Backend in NODE with a **__lot of libraries__** and MongoDB.<br />
 <br />
-REACT, JS, NODE, HTML, CSS, SASS, Firebase, MongoDB. <br />
+REACT, JS, NODE, HTML, CSS, SASS, Firebase, MongoDB, Git <br />
+
 
 🌱 I'm working on the full implementation with .NET Core 6 and REACT.
  
