@@ -20,11 +20,11 @@ Here are some ideas to get you started:
  Project Manager
 
 
-🎩
-👀👂
-👃
-💋
-  ##🫵
+🎩<br />
+👀👂<br />
+👃<br />
+💋<br />
+🫵
 
 
 
