@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 🔭 I´m a full stack developer with experience on:  <br />
- .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Networking - IT 2nd level | Scrum
+ .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Networking <br/> 
+ Project Manager
 
-🌱 Always learning <br />
-💬 Ask me about what you need, tell me what you think.
+
+🎩
+👀👂
+👃
+💋
+  ##🫵
+
+
+
+💬 Tell me what you think...
 
 ## 📫 How to reach me: contacto@panthersoul.uy
 
