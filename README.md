@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 🔭 I´m a full stack developer with experience on:  <br />
- .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Networking <br/> 
+ .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Mongo - Networking <br/> 
 
  
  #### In order to test and develop, The main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <br />
 
 Here you will find some projects based on the idea that I just mentioned. <br />
-You can find a web site, the app with REACT and Firebase or a Backend with node also.<br />
+You can find a web site, the app with REACT and Firebase or a Backend in NODE with a lot of libraries and MongoDB.<br />
 <br />
-REACT, JS, NODE, HTML, CSS, SASS. <br />
+REACT, JS, NODE, HTML, CSS, SASS, Firebase, MongoDB. <br />
 
 🌱 I'm working on the full implementation with .NET Core 6 and REACT.
  
