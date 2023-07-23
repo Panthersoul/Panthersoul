@@ -17,16 +17,31 @@ Here are some ideas to get you started:
 ### Hi there 👋
 🔭 I´m a full stack developer with experience on:  <br />
  .NET - C# - SASS - CSS - HTML - Javascript - React - Node - Express - Sql - Networking <br/> 
+
+ 
+ #### In order to test and develop, The main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
+
+  # 💡 
+🎩<br />
+👀👂<br />
+👃<br />
+👅<br />
+<br />
+<br />
+
+Here you will find some projects based on the idea that I just mentioned. <br />
+You can find a web site, the app with REACT and Firebase or a Backend with node also.<br />
+<br />
+REACT, JS, NODE, HTML, CSS, SASS. <br />
+
+🌱 I'm working on the full implementation with .NET Core 6 and REACT.
  
 💬 Want to tell me something?
 
-## 📫 How to reach me: contacto@panthersoul.uy
+### 📫 How to reach me: contacto@panthersoul.uy
 
 #### PS: Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
 
 
 
-🎩<br />
-👀👂<br />
-👃<br />
-👅<br />
+
