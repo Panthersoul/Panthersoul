@@ -72,21 +72,14 @@ You can find a web site, the app with REACT and Firebase or a Backend in NODE JS
 <br />
 
 
-🌱 I'm working on the full implementation with .NET Core 6 and REACT. 
-💬 Want to tell me something?
+🌱 I'm working on the full implementation with .NET Core 6 and REACT.  <br />
+💬 Want to tell me something? <br />
 
 ### 📫 How to reach me: contacto@panthersoul.uy
 
 #### PS: Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
 
-  # 💡 
-🎩<br />
-👀👂<br />
-👃<br />
-👅<br />
-<br />
-<br />
 
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/agiacosa)
 
 
