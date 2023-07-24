@@ -62,16 +62,16 @@ Stats: <br />
 ![image](https://github-profile-trophy.vercel.app/?username=Panthersoul&theme=dark)
 
 
- # Code? OK
- #### In order to test and develop the main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
+ ## Code? OK
+ Let me give you some context: <br />
+ In order to test and develop the main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
 
-Here you will find some projects based on that idea 💡  <br />
-You can find a web site, the app with REACT and Firebase or a Backend in NODE with a **__lot of libraries__** and MongoDB.<br />
+Here you will find some projects based on that great idea 💡 <br />
+You can find a web site, the app with REACT and Firebase or a Backend in NODE JS, Express with a **__lot of libraries__** and MongoDB.<br />
 <br />
-REACT, JS, NODE, HTML, CSS, SASS, Firebase, MongoDB, Git <br />
 
-🌱 I'm working on the full implementation with .NET Core 6 and REACT.
- 
+
+🌱 I'm working on the full implementation with .NET Core 6 and REACT. 
 💬 Want to tell me something?
 
 ### 📫 How to reach me: contacto@panthersoul.uy
