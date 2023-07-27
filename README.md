@@ -68,7 +68,7 @@ Stats: <br />
  Let me give you some context: <br />
  In order to test and develop the main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
 
-Here you will find some projects based on that great idea 💡 <br />
+Here (in the repositories) you will find some projects based on that great idea 💡 <br />
 You can find a web site, the app with REACT and Firebase or a Backend in NODE JS, Express with a **__lot of libraries__** and MongoDB.<br />
 <br />
 
