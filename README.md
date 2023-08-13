@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### Hi there 👋
-🔭 I´m a full stack developer with experience in...   <br /><br />
+Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
+<br /><br />
+I´m Andrés and in this repos, you will find differents projects but around a unique idea. <br />
+I left some of the technologies that i used to work lately on this.<br />
+<br />
 
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -51,26 +56,12 @@ Stats: <br />
 <br />
 <br />
 
-![image](https://github-profile-trophy.vercel.app/?username=Panthersoul&theme=dark)
-
-
- ## Code? OK
- Let me give you some context: <br />
- In order to test and develop the main idea is to create a Restaurant Menú dynamically, fully administrable. <br />
-
-Here (in the repositories) you will find some projects based on that great idea 💡 <br />
-You can find a web site, the app with REACT and Firebase or a Backend in NODE JS, Express with a **__lot of libraries__** and MongoDB.<br />
-<br />
-
-
-🌱 I'm working on the full implementation with .NET Core 6 and REACT.  <br />
-💬 Want to tell me something? <br />
-
 ### 📫 How to reach me: contacto@panthersoul.uy
-
-#### PS: Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/agiacosa)
+
+<br />
+<br />
 
 
