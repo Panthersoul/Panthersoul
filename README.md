@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Take it easy... Panthersoul it´s just nickname that reveals the love for the Big Cat family. 🐆
 <br /><br />
-I´m Andrés and here you will find differents projects but around a unique idea. <br />
+I´m Andrés and here you will find differents projects <br />
 I left some of the technologies that i used to work lately on this.<br />
 <br />
 
