@@ -55,7 +55,7 @@ Stats: <br />
 <br />
 <br />
 
-### 📫 How to reach me: contacto@panthersoul.uy
+### 📫 How to reach me: giacosa.andres@gmail.com
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/agiacosa)
